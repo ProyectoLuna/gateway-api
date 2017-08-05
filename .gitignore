@@ -1,0 +1,14 @@
+
+\.cproject
+
+\.gdbinit
+
+\.project
+
+*.prefs
+
+Debug/
+
+gateway_api_gdb_arm-poky-linux-gnueabi\.launch
+
+toolchain\.cmake
